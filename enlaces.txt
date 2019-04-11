@@ -1,0 +1,5 @@
+enlaces de interes bootstrap:
+
+http://librosweb.es/libro/bootstrap_3/capitulo_5/formulario_basico.html
+https://formden.com/form-builder/
+http://formoid.com/es/?id=es
